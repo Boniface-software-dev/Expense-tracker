@@ -18,10 +18,18 @@ The Expense Tracker allows users to:
 - **CSS Modules or TailwindCSS** 
 
 ##  Project Structure
+```
+src/
+├── components/
+├── ExpenseForm.jsx
+├── ExpenseTable.jsx
+│── SarchBar.jsx
+├── App.css
+├── App.jsx
+└── index.css
+└── main.jsx
 
-src/ ├── components/ │ ├── ExpenseForm.jsx │ ├── ExpenseTable.jsx │ └── SarchBar.jsx ├── App.css├── App.jsx └── index.css └── main.jsx
-
-
+```
 ##  Concepts Covered
 
 This project demonstrates:
